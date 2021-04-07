@@ -1,0 +1,6 @@
+com/bankaccount/api/rest/TransactionControllerTest.class
+com/bankaccount/api/utils/AccountValidatorTest.class
+com/bankaccount/api/service/AccountServiceImplTest.class
+com/bankaccount/api/rest/AccountControllerTest.class
+com/bankaccount/api/utils/TransactionValidatorTest.class
+com/bankaccount/api/KataBankAccountApisApplicationTests.class
